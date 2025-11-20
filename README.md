@@ -150,6 +150,3 @@ date,merchant,category,amount
 ---
 
 
-
-
-If you’d like, I can also generate a **requirements.txt**, **screenshots section**, or a polished **GitHub descripti

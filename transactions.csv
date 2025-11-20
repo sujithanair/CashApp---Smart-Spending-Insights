@@ -1,0 +1,260 @@
+date,merchant,category,amount
+2025-08-21 17:15:16.097123,Spotify,Entertainment,79.99
+2025-08-21 17:15:16.097123,Local Store,Miscellaneous,50.44
+2025-08-21 17:15:16.097123,Amazon,Shopping,76.99
+2025-08-21 17:15:16.097123,Uber,Transport,90.33
+2025-08-22 17:15:16.097123,Chipotle,Food & Dining,71.62
+2025-08-22 17:15:16.097123,Amazon,Shopping,43.66
+2025-08-23 17:15:16.097123,Chipotle,Food & Dining,98.82
+2025-08-23 17:15:16.097123,AT&T,Bills & Utilities,44.5
+2025-08-24 17:15:16.097123,Walmart,Shopping,94.9
+2025-08-25 17:15:16.097123,Walgreens,Miscellaneous,18.77
+2025-08-25 17:15:16.097123,AT&T,Bills & Utilities,34.81
+2025-08-25 17:15:16.097123,Lyft,Transport,59.63
+2025-08-26 17:15:16.097123,McDonald's,Food & Dining,10.9
+2025-08-26 17:15:16.097123,Walmart,Shopping,36.06
+2025-08-27 17:15:16.097123,Walgreens,Miscellaneous,97.5
+2025-08-27 17:15:16.097123,AMC Theatres,Entertainment,109.93
+2025-08-28 17:15:16.097123,AMC Theatres,Entertainment,95.73
+2025-08-28 17:15:16.097123,AT&T,Bills & Utilities,95.88
+2025-08-29 17:15:16.097123,Netflix,Entertainment,9.09
+2025-08-29 17:15:16.097123,Netflix,Entertainment,9.88
+2025-08-30 17:15:16.097123,Lyft,Transport,74.58
+2025-08-30 17:15:16.097123,Trader Joe's,Groceries,97.13
+2025-08-30 17:15:16.097123,Uber Eats,Food & Dining,47.29
+2025-08-30 17:15:16.097123,Netflix,Entertainment,117.44
+2025-08-31 17:15:16.097123,Starbucks,Food & Dining,29.28
+2025-08-31 17:15:16.097123,Spotify,Entertainment,85.4
+2025-09-01 17:15:16.097123,Spotify,Entertainment,113.25
+2025-09-01 17:15:16.097123,Chipotle,Food & Dining,92.38
+2025-09-01 17:15:16.097123,Target,Shopping,67.61
+2025-09-02 17:15:16.097123,Lyft,Transport,12.18
+2025-09-02 17:15:16.097123,Walgreens,Miscellaneous,64.28
+2025-09-02 17:15:16.097123,Spotify,Entertainment,105.4
+2025-09-03 17:15:16.097123,Netflix,Entertainment,54.83
+2025-09-04 17:15:16.097123,McDonald's,Food & Dining,108.24
+2025-09-04 17:15:16.097123,Amazon,Shopping,8.36
+2025-09-05 17:15:16.097123,CVS,Miscellaneous,113.43
+2025-09-05 17:15:16.097123,Whole Foods,Groceries,49.3
+2025-09-05 17:15:16.097123,Spectrum,Bills & Utilities,57.58
+2025-09-05 17:15:16.097123,Exxon,Transport,93.52
+2025-09-06 17:15:16.097123,Lyft,Transport,68.32
+2025-09-07 17:15:16.097123,Uber,Transport,108.86
+2025-09-07 17:15:16.097123,Uber Eats,Food & Dining,101.33
+2025-09-07 17:15:16.097123,Walgreens,Miscellaneous,54.45
+2025-09-08 17:15:16.097123,Amazon,Shopping,110.29
+2025-09-08 17:15:16.097123,AT&T,Bills & Utilities,54.93
+2025-09-08 17:15:16.097123,Electric Co,Bills & Utilities,55.33
+2025-09-09 17:15:16.097123,Trader Joe's,Groceries,89.84
+2025-09-10 17:15:16.097123,Walmart,Shopping,57.2
+2025-09-10 17:15:16.097123,McDonald's,Food & Dining,32.64
+2025-09-10 17:15:16.097123,Walgreens,Miscellaneous,45.91
+2025-09-11 17:15:16.097123,CVS,Miscellaneous,56.69
+2025-09-11 17:15:16.097123,Target,Shopping,83.28
+2025-09-11 17:15:16.097123,Exxon,Transport,60.23
+2025-09-12 17:15:16.097123,Uber Eats,Food & Dining,68.66
+2025-09-12 17:15:16.097123,Local Store,Miscellaneous,39.03
+2025-09-12 17:15:16.097123,Lyft,Transport,12.58
+2025-09-12 17:15:16.097123,Starbucks,Food & Dining,24.29
+2025-09-13 17:15:16.097123,Lyft,Transport,114.16
+2025-09-14 17:15:16.097123,Starbucks,Food & Dining,67.52
+2025-09-15 17:15:16.097123,Spectrum,Bills & Utilities,87.0
+2025-09-15 17:15:16.097123,Netflix,Entertainment,119.61
+2025-09-15 17:15:16.097123,Electric Co,Bills & Utilities,31.44
+2025-09-15 17:15:16.097123,Local Store,Miscellaneous,96.66
+2025-09-16 17:15:16.097123,McDonald's,Food & Dining,113.39
+2025-09-16 17:15:16.097123,Amazon,Shopping,15.22
+2025-09-16 17:15:16.097123,AMC Theatres,Entertainment,60.96
+2025-09-16 17:15:16.097123,Uber Eats,Food & Dining,45.31
+2025-09-17 17:15:16.097123,Walgreens,Miscellaneous,115.02
+2025-09-17 17:15:16.097123,Water Utility,Bills & Utilities,19.07
+2025-09-18 17:15:16.097123,H-E-B,Groceries,33.01
+2025-09-19 17:15:16.097123,Exxon,Transport,83.92
+2025-09-19 17:15:16.097123,Electric Co,Bills & Utilities,38.48
+2025-09-20 17:15:16.097123,Exxon,Transport,46.02
+2025-09-20 17:15:16.097123,Trader Joe's,Groceries,89.33
+2025-09-20 17:15:16.097123,Whole Foods,Groceries,17.61
+2025-09-20 17:15:16.097123,Walmart,Shopping,77.13
+2025-09-21 17:15:16.097123,Netflix,Entertainment,118.91
+2025-09-21 17:15:16.097123,Exxon,Transport,93.89
+2025-09-21 17:15:16.097123,Local Store,Miscellaneous,66.04
+2025-09-21 17:15:16.097123,Target,Shopping,104.77
+2025-09-22 17:15:16.097123,AMC Theatres,Entertainment,31.28
+2025-09-22 17:15:16.097123,Uber Eats,Food & Dining,17.52
+2025-09-22 17:15:16.097123,AMC Theatres,Entertainment,16.29
+2025-09-23 17:15:16.097123,Uber Eats,Food & Dining,93.93
+2025-09-23 17:15:16.097123,AMC Theatres,Entertainment,113.88
+2025-09-23 17:15:16.097123,Uber Eats,Food & Dining,53.55
+2025-09-23 17:15:16.097123,Whole Foods,Groceries,60.9
+2025-09-24 17:15:16.097123,Netflix,Entertainment,52.94
+2025-09-24 17:15:16.097123,Trader Joe's,Groceries,119.5
+2025-09-24 17:15:16.097123,McDonald's,Food & Dining,51.9
+2025-09-24 17:15:16.097123,Whole Foods,Groceries,53.08
+2025-09-25 17:15:16.097123,Trader Joe's,Groceries,60.3
+2025-09-25 17:15:16.097123,Local Store,Miscellaneous,48.63
+2025-09-25 17:15:16.097123,Water Utility,Bills & Utilities,50.35
+2025-09-25 17:15:16.097123,Uber,Transport,14.99
+2025-09-26 17:15:16.097123,Exxon,Transport,13.85
+2025-09-26 17:15:16.097123,Walmart,Shopping,76.31
+2025-09-26 17:15:16.097123,Spectrum,Bills & Utilities,103.91
+2025-09-27 17:15:16.097123,Local Store,Miscellaneous,118.04
+2025-09-27 17:15:16.097123,Walmart,Shopping,32.85
+2025-09-27 17:15:16.097123,Whole Foods,Groceries,80.94
+2025-09-27 17:15:16.097123,McDonald's,Food & Dining,110.42
+2025-09-28 17:15:16.097123,Electric Co,Bills & Utilities,68.99
+2025-09-28 17:15:16.097123,CVS,Miscellaneous,82.82
+2025-09-28 17:15:16.097123,Exxon,Transport,88.63
+2025-09-29 17:15:16.097123,Whole Foods,Groceries,85.34
+2025-09-29 17:15:16.097123,Starbucks,Food & Dining,12.78
+2025-09-29 17:15:16.097123,Starbucks,Food & Dining,116.99
+2025-09-29 17:15:16.097123,Whole Foods,Groceries,92.87
+2025-09-30 17:15:16.097123,Spectrum,Bills & Utilities,83.3
+2025-09-30 17:15:16.097123,Water Utility,Bills & Utilities,85.51
+2025-10-01 17:15:16.097123,Local Store,Miscellaneous,84.9
+2025-10-01 17:15:16.097123,Lyft,Transport,74.45
+2025-10-01 17:15:16.097123,Local Store,Miscellaneous,51.77
+2025-10-02 17:15:16.097123,Whole Foods,Groceries,95.51
+2025-10-02 17:15:16.097123,McDonald's,Food & Dining,86.46
+2025-10-02 17:15:16.097123,Trader Joe's,Groceries,57.97
+2025-10-02 17:15:16.097123,Water Utility,Bills & Utilities,96.1
+2025-10-03 17:15:16.097123,Exxon,Transport,68.22
+2025-10-03 17:15:16.097123,Walgreens,Miscellaneous,119.31
+2025-10-03 17:15:16.097123,Uber,Transport,83.74
+2025-10-03 17:15:16.097123,Local Store,Miscellaneous,59.16
+2025-10-04 17:15:16.097123,Uber Eats,Food & Dining,34.94
+2025-10-04 17:15:16.097123,CVS,Miscellaneous,42.31
+2025-10-05 17:15:16.097123,Uber,Transport,43.1
+2025-10-05 17:15:16.097123,Lyft,Transport,90.17
+2025-10-05 17:15:16.097123,Shell,Transport,19.4
+2025-10-06 17:15:16.097123,CVS,Miscellaneous,81.09
+2025-10-06 17:15:16.097123,Walgreens,Miscellaneous,16.89
+2025-10-06 17:15:16.097123,Amazon,Shopping,60.29
+2025-10-06 17:15:16.097123,AT&T,Bills & Utilities,96.53
+2025-10-07 17:15:16.097123,Netflix,Entertainment,106.09
+2025-10-08 17:15:16.097123,Amazon,Shopping,20.92
+2025-10-08 17:15:16.097123,Chipotle,Food & Dining,84.96
+2025-10-08 17:15:16.097123,McDonald's,Food & Dining,63.33
+2025-10-09 17:15:16.097123,Trader Joe's,Groceries,64.34
+2025-10-10 17:15:16.097123,Whole Foods,Groceries,42.31
+2025-10-10 17:15:16.097123,Spotify,Entertainment,70.82
+2025-10-11 17:15:16.097123,Walmart,Shopping,21.25
+2025-10-11 17:15:16.097123,Uber Eats,Food & Dining,41.57
+2025-10-11 17:15:16.097123,AMC Theatres,Entertainment,32.01
+2025-10-12 17:15:16.097123,Spotify,Entertainment,59.23
+2025-10-12 17:15:16.097123,Electric Co,Bills & Utilities,42.45
+2025-10-12 17:15:16.097123,Whole Foods,Groceries,86.13
+2025-10-13 17:15:16.097123,Electric Co,Bills & Utilities,116.59
+2025-10-13 17:15:16.097123,Target,Shopping,86.12
+2025-10-13 17:15:16.097123,Walmart,Shopping,97.31
+2025-10-13 17:15:16.097123,Exxon,Transport,78.59
+2025-10-14 17:15:16.097123,Exxon,Transport,23.62
+2025-10-14 17:15:16.097123,Walgreens,Miscellaneous,59.81
+2025-10-14 17:15:16.097123,AMC Theatres,Entertainment,5.8
+2025-10-14 17:15:16.097123,Amazon,Shopping,116.06
+2025-10-15 17:15:16.097123,Netflix,Entertainment,29.96
+2025-10-15 17:15:16.097123,H-E-B,Groceries,108.82
+2025-10-16 17:15:16.097123,Uber Eats,Food & Dining,21.17
+2025-10-17 17:15:16.097123,H-E-B,Groceries,114.8
+2025-10-17 17:15:16.097123,Spotify,Entertainment,47.01
+2025-10-17 17:15:16.097123,Uber Eats,Food & Dining,20.99
+2025-10-18 17:15:16.097123,AMC Theatres,Entertainment,29.45
+2025-10-18 17:15:16.097123,Spectrum,Bills & Utilities,18.63
+2025-10-18 17:15:16.097123,AT&T,Bills & Utilities,97.92
+2025-10-18 17:15:16.097123,H-E-B,Groceries,52.54
+2025-10-19 17:15:16.097123,Local Store,Miscellaneous,91.51
+2025-10-19 17:15:16.097123,Whole Foods,Groceries,113.53
+2025-10-19 17:15:16.097123,Walgreens,Miscellaneous,43.57
+2025-10-20 17:15:16.097123,AMC Theatres,Entertainment,82.76
+2025-10-20 17:15:16.097123,Uber Eats,Food & Dining,13.69
+2025-10-20 17:15:16.097123,Walgreens,Miscellaneous,114.47
+2025-10-20 17:15:16.097123,AT&T,Bills & Utilities,106.24
+2025-10-21 17:15:16.097123,Local Store,Miscellaneous,74.01
+2025-10-21 17:15:16.097123,AMC Theatres,Entertainment,102.74
+2025-10-21 17:15:16.097123,Amazon,Shopping,88.12
+2025-10-22 17:15:16.097123,Uber,Transport,8.09
+2025-10-22 17:15:16.097123,McDonald's,Food & Dining,87.4
+2025-10-22 17:15:16.097123,Uber,Transport,114.65
+2025-10-22 17:15:16.097123,Walgreens,Miscellaneous,100.8
+2025-10-23 17:15:16.097123,CVS,Miscellaneous,35.64
+2025-10-23 17:15:16.097123,Water Utility,Bills & Utilities,86.27
+2025-10-23 17:15:16.097123,Shell,Transport,40.34
+2025-10-24 17:15:16.097123,Walgreens,Miscellaneous,47.04
+2025-10-24 17:15:16.097123,Uber Eats,Food & Dining,115.84
+2025-10-24 17:15:16.097123,Shell,Transport,23.79
+2025-10-24 17:15:16.097123,Chipotle,Food & Dining,84.02
+2025-10-25 17:15:16.097123,Lyft,Transport,60.33
+2025-10-25 17:15:16.097123,Chipotle,Food & Dining,64.9
+2025-10-25 17:15:16.097123,Spotify,Entertainment,8.73
+2025-10-25 17:15:16.097123,Electric Co,Bills & Utilities,6.32
+2025-10-26 17:15:16.097123,Walmart,Shopping,46.1
+2025-10-26 17:15:16.097123,Uber,Transport,58.99
+2025-10-26 17:15:16.097123,Netflix,Entertainment,72.5
+2025-10-26 17:15:16.097123,Walmart,Shopping,38.36
+2025-10-27 17:15:16.097123,Target,Shopping,7.6
+2025-10-27 17:15:16.097123,Electric Co,Bills & Utilities,73.34
+2025-10-27 17:15:16.097123,Chipotle,Food & Dining,52.78
+2025-10-27 17:15:16.097123,Lyft,Transport,119.09
+2025-10-28 17:15:16.097123,Spectrum,Bills & Utilities,30.45
+2025-10-28 17:15:16.097123,Uber Eats,Food & Dining,62.01
+2025-10-28 17:15:16.097123,Uber,Transport,114.69
+2025-10-29 17:15:16.097123,Starbucks,Food & Dining,110.89
+2025-10-29 17:15:16.097123,Walgreens,Miscellaneous,14.38
+2025-10-29 17:15:16.097123,CVS,Miscellaneous,74.7
+2025-10-29 17:15:16.097123,Netflix,Entertainment,47.98
+2025-10-30 17:15:16.097123,Local Store,Miscellaneous,12.66
+2025-10-30 17:15:16.097123,Electric Co,Bills & Utilities,24.86
+2025-10-30 17:15:16.097123,Local Store,Miscellaneous,112.06
+2025-10-31 17:15:16.097123,Chipotle,Food & Dining,60.86
+2025-10-31 17:15:16.097123,Uber Eats,Food & Dining,45.44
+2025-11-01 17:15:16.097123,Electric Co,Bills & Utilities,114.67
+2025-11-01 17:15:16.097123,Spotify,Entertainment,80.42
+2025-11-01 17:15:16.097123,AT&T,Bills & Utilities,33.01
+2025-11-01 17:15:16.097123,Starbucks,Food & Dining,45.2
+2025-11-02 17:15:16.097123,Electric Co,Bills & Utilities,16.34
+2025-11-02 17:15:16.097123,Exxon,Transport,84.22
+2025-11-02 17:15:16.097123,Electric Co,Bills & Utilities,80.86
+2025-11-03 17:15:16.097123,Local Store,Miscellaneous,28.09
+2025-11-03 17:15:16.097123,AT&T,Bills & Utilities,18.24
+2025-11-03 17:15:16.097123,Exxon,Transport,96.32
+2025-11-04 17:15:16.097123,Trader Joe's,Groceries,61.58
+2025-11-05 17:15:16.097123,Walgreens,Miscellaneous,117.59
+2025-11-05 17:15:16.097123,Spotify,Entertainment,5.96
+2025-11-05 17:15:16.097123,Target,Shopping,70.25
+2025-11-05 17:15:16.097123,Spectrum,Bills & Utilities,87.11
+2025-11-06 17:15:16.097123,H-E-B,Groceries,84.73
+2025-11-07 17:15:16.097123,Starbucks,Food & Dining,35.79
+2025-11-07 17:15:16.097123,Spectrum,Bills & Utilities,25.57
+2025-11-07 17:15:16.097123,Whole Foods,Groceries,74.07
+2025-11-08 17:15:16.097123,Spotify,Entertainment,27.9
+2025-11-09 17:15:16.097123,Uber Eats,Food & Dining,52.52
+2025-11-09 17:15:16.097123,Trader Joe's,Groceries,112.78
+2025-11-09 17:15:16.097123,Walmart,Shopping,95.5
+2025-11-09 17:15:16.097123,Local Store,Miscellaneous,61.14
+2025-11-10 17:15:16.097123,Uber,Transport,54.04
+2025-11-10 17:15:16.097123,AMC Theatres,Entertainment,108.8
+2025-11-11 17:15:16.097123,AT&T,Bills & Utilities,10.98
+2025-11-11 17:15:16.097123,Amazon,Shopping,106.07
+2025-11-11 17:15:16.097123,H-E-B,Groceries,18.92
+2025-11-12 17:15:16.097123,Walmart,Shopping,76.95
+2025-11-12 17:15:16.097123,Trader Joe's,Groceries,60.52
+2025-11-12 17:15:16.097123,AMC Theatres,Entertainment,51.22
+2025-11-12 17:15:16.097123,Walgreens,Miscellaneous,57.72
+2025-11-13 17:15:16.097123,H-E-B,Groceries,94.85
+2025-11-13 17:15:16.097123,Spectrum,Bills & Utilities,115.47
+2025-11-13 17:15:16.097123,Walgreens,Miscellaneous,103.62
+2025-11-13 17:15:16.097123,AT&T,Bills & Utilities,37.5
+2025-11-14 17:15:16.097123,Target,Shopping,86.96
+2025-11-14 17:15:16.097123,Target,Shopping,21.0
+2025-11-15 17:15:16.097123,Spotify,Entertainment,9.61
+2025-11-15 17:15:16.097123,Local Store,Miscellaneous,35.71
+2025-11-15 17:15:16.097123,Spectrum,Bills & Utilities,70.97
+2025-11-15 17:15:16.097123,Electric Co,Bills & Utilities,21.39
+2025-11-16 17:15:16.097123,Water Utility,Bills & Utilities,60.16
+2025-11-16 17:15:16.097123,Whole Foods,Groceries,54.61
+2025-11-16 17:15:16.097123,Netflix,Entertainment,15.7
+2025-11-17 17:15:16.097123,H-E-B,Groceries,85.55
+2025-11-17 17:15:16.097123,Uber Eats,Food & Dining,23.78
+2025-11-18 17:15:16.097123,Spotify,Entertainment,17.03
+2025-11-18 17:15:16.097123,Starbucks,Food & Dining,48.98
+2025-11-18 17:15:16.097123,Uber Eats,Food & Dining,37.79
+2025-11-18 17:15:16.097123,Walmart,Shopping,110.49

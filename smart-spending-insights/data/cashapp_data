@@ -1,0 +1,42 @@
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import random
+
+categories = {
+    "Food & Dining": ["Chipotle", "McDonald's", "Starbucks", "Uber Eats"],
+    "Groceries": ["Whole Foods", "H-E-B", "Trader Joe's"],
+    "Transport": ["Uber", "Lyft", "Shell", "Exxon"],
+    "Shopping": ["Amazon", "Target", "Walmart"],
+    "Bills & Utilities": ["Spectrum", "AT&T", "Electric Co", "Water Utility"],
+    "Entertainment": ["Netflix", "Spotify", "AMC Theatres"],
+    "Miscellaneous": ["CVS", "Walgreens", "Local Store"]
+}
+
+def generate_transactions(num_days=90):
+    rows = []
+    start_date = datetime.today() - timedelta(days=num_days)
+
+    for i in range(num_days):
+        day = start_date + timedelta(days=i)
+
+        num_transactions = np.random.randint(1, 5)
+
+        for _ in range(num_transactions):
+            category = random.choice(list(categories.keys()))
+            merchant = random.choice(categories[category])
+            amount = round(np.random.uniform(5, 120), 2)
+
+            rows.append({
+                "date": day,
+                "merchant": merchant,
+                "category": category,
+                "amount": amount
+            })
+
+    df = pd.DataFrame(rows)
+    return df
+
+df = generate_transactions()
+df.to_csv("transactions.csv", index=False)
+print("Generated transactions.csv")
